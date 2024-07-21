@@ -29,5 +29,5 @@ This software implements object tracking using the CSRT (Discriminative Correlat
 
 2. Run the script:
 
-  ```bash
-  tracker.py
+     ```bash
+     tracker.py
